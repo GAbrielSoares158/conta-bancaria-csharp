@@ -1,4 +1,4 @@
-﻿# 🏦 Banco Belo Horizonte — Sistema de Contas
+﻿# 🏦 Banco Belo Horizonte
 
 Sistema de gerenciamento de contas bancárias do **Banco Belo Horizonte**, desenvolvido em **C# / .NET 8**, aplicando os princípios de **Orientação a Objetos** (herança, abstração, encapsulamento e polimorfismo).
 
