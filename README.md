@@ -147,6 +147,7 @@ Cores.Titulo("Menu Principal");        // azul
 
 ### Pré-requisitos
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/pt-br/vs/community/)
 
 ### Passos
 
