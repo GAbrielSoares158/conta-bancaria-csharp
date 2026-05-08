@@ -215,4 +215,4 @@ Limite de crédito: R$ 1000
 
 ## 👤 Autor
 
-Desenvolvido por **Gabriel Soares Reis** como parte do **Projeto Acelera Maker 2026**.
+Desenvolvido por **Gabriel Soares Reis** como parte do **Projeto AceleraMaker 2026**.
